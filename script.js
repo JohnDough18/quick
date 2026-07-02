@@ -4,7 +4,7 @@
 let settings = {
   volume: 0.7,
   readySetDelay: 1200,
-  setGoDelay: 2000,
+  setGoDelay: 1200,
   goLoopSpeed: 800
 };
 
